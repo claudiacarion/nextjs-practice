@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <div>
-      <p>Next.js project</p>
+      <p>footer goes here</p>
     </div>
   )
 }
